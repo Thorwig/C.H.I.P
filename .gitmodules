@@ -1,0 +1,6 @@
+[submodule "C.H.I.P-Microservices"]
+	path = C.H.I.P-Microservices
+	url = git@github.com:Thorwig/C.H.I.P-Microservices.git
+[submodule "C.H.I.P-Client"]
+	path = C.H.I.P-Client
+	url = git@github.com:Thorwig/C.H.I.P-Client.git
