@@ -3,5 +3,4 @@
 Cleverly Humanized Intelligence Pal
 
 Use `git submodule update --recursive`
-
-https://github.com/Thorwig/C.H.I.P.wiki.git
+Wiki Link: https://github.com/Thorwig/C.H.I.P/wiki
